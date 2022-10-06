@@ -6,18 +6,18 @@
 🔭 Hoje trabalho com front-end
 🌱 Estudando ReactJS e NextJS
 😄 Pronouns: ele/dele
--->
+
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=daviemanuels&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Davi Emanuel github stats" /> 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviemanuelsa&show_icons=true&theme=radical)
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div>-->
 
-<!--<div align="center">
+<div align="center">
   <a href="https://github.com/daviemanuels">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviemanuels&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&langs_count=7&theme=onedark"/>
-</div>-->
+</div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
