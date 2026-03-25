@@ -19,7 +19,7 @@ jobs:
           github_user_name: daviemanuels
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?color_snake=00bfbf&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353&background=0d1117
-            dist/github-contribution-grid-snake.gif?color_snake=00bfbf&background=0d1117
+            dist/github-contribution-grid-snake.gif?color_snake=00bfbf&bg_color=0d1117
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
