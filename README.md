@@ -2,28 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Emanuel;I'm+26+years+old;I'm+from+Brasil,+PB;I+study+web+applications;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<!--
-🔭 Hoje trabalho com front-end
-🌱 Estudando ReactJS e NextJS
-😄 Pronouns: ele/dele
-
-
-<div align="center">  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviemanuelsa&show_icons=true&theme=radical)
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>-->
-
 <div align="center">
-  <a href="https://github.com/daviemanuels">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=daviemanuels&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviemanuels&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&langs_count=7&theme=onedark&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=daviemanuels&theme=onedark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
+</div>
+<h2 align="center">💻 Technologies</h2>
+
+<div align="center"><br>
+  <img align="center" alt="Davi-CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Davi-HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Davi-Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Davi-TypeScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Davi-React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Davi-NextJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Davi-NodeJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Davi-PostgreSQL" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Davi-MySQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
 ##
@@ -37,23 +34,33 @@
 
   ![Snake animation](https://raw.githubusercontent.com/daviemanuels/daviemanuels/output/github-snake-dark.svg?v=1)
   
-##
+
+## 👨‍💻 About Me
+
+- 💼 Fullstack Developer (React / Next.js / Node.js)
+- 🚀 Focado em aplicações web modernas
+- 📍 Brasil - PB
+- 📚 Sempre aprendendo novas tecnologias
 
 
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+### 🛠️ Tools & Environment:
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
+![Insomnia](https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=4000BF)
 
-### Studying in this moment:
-![ReactJS](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Next.JS](https://img.shields.io/badge/-Next.JS-0D1117?style=for-the-badge&logo=next.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+## 🚀 Featured Projects
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{daviemanuels}/count.svg" /></p> 
-<br></div>
+- 🔗 Sistema de exames (React + Node + Prisma)
+- 🔗 Dashboard com gráficos (Next.js + ApexCharts)
+
+### 📚 Currently Learning:
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-0D1117?style=for-the-badge)&nbsp;
+
+<p align="center">
+  <b>Visitors</b><br><br>
+  <img src="https://komarev.com/ghpvc/?username=daviemanuels&color=00bfbf&style=for-the-badge" />
+</p>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
