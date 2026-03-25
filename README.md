@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/davi-emanuel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-  ![Snake animation](https://raw.githubusercontent.com/daviemanuels/daviemanuels/output/github-contribution-grid-snake-dark.svg?v=4)
+  ![Snake animation](https://raw.githubusercontent.com/daviemanuels/daviemanuels/output/github-contribution-grid-snake.gif?v=5)
   
 ##
 
