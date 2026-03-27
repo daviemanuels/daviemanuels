@@ -3,8 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Davi+Emanuel;I'm+26+years+old;I'm+from+Brasil,+PB;I+study+web+applications;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daviemanuels&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&langs_count=7&theme=onedark&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daviemanuels&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
+  
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daviemanuels&layout=compact&langs_count=7&theme=onedark&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=daviemanuels&theme=onedark&hide_border=true&background=0d1117&stroke=00bfbf&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf"/>
