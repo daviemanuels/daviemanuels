@@ -11,16 +11,32 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
+      # 🔧 FIX do erro "Cannot find module 'canvas'"
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2-dev \
+            libpango1.0-dev \
+            libjpeg-dev \
+            libgif-dev \
+            librsvg2-dev
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
       - name: Generate snake animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: daviemanuels
           outputs: |
-           dist/github-snake.svg
-           dist/github-snake-dark.svg?palette=github-dark
-           dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9&color_background=%23aaaaaa
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
